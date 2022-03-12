@@ -3,14 +3,11 @@
 
 Packages needed to run the notebook:
 
-1) ontobio
-pip install ontobio
+1) ontobio (pip install ontobio)
 
-2) rpy2
-pip install rpy2
+2) rpy2 (pip install rpy2)
 
-3) bioinfokit
-pip install bioinfokit
+3) bioinfokit (pip install bioinfokit)
 
 
 In this repository, you need the following files to run the code uploaded:
