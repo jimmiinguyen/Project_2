@@ -1,5 +1,18 @@
 # Project_2
 
+
+Packages needed to run the notebook:
+
+1) ontobio
+pip install ontobio
+
+2) rpy2
+pip install rpy2
+
+3) bioinfokit
+pip install bioinfokit
+
+
 In this repository, you need the following files to run the code uploaded:
 
 1) sequence.txt - this is a genome sequence of the tumor protein p63 gene (in the notebook, seqeunce.txt has been renamed to p63_whale.fa)
